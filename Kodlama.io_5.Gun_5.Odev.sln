@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kodlama.io_5.Gun_5.Odev", "Kodlama.io_5.Gun_5.Odev\Kodlama.io_5.Gun_5.Odev.csproj", "{87D54956-7F11-4326-A6B7-FE0A4B54074F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87D54956-7F11-4326-A6B7-FE0A4B54074F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87D54956-7F11-4326-A6B7-FE0A4B54074F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87D54956-7F11-4326-A6B7-FE0A4B54074F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87D54956-7F11-4326-A6B7-FE0A4B54074F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B81A7AB9-3108-48B3-A91E-C10971A1E47A}
+	EndGlobalSection
+EndGlobal
